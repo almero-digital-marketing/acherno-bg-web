@@ -1,0 +1,126 @@
+---
+rel: '/contacts/jobs/application'
+layout: application
+sitemap: false
+title: 'Кандидатстване'
+subtitle: 'Работа и стаж в Ачерно'
+description: 'Имате възможност да кандидатствате за всяка една позиция във всеки един момент без значение дали има отворени позиции или не. Ачерно ще се свърже с всички кандидатствали и ще ги информира дали са преминали предварително одобрение за позицията, за която са кандидатствали. С предварително одобрените кандидати ще се организира интервю, тогава когато има отворена позиция за съответната длъжност.'
+---
+<div id="site" class="important">
+	<div id="position">
+		<h2><b>Позиция</b> за която кандидатствате</h2>
+		<p>За да сте част от екипа на Ачерно е важно това, което правите да е не само работа, но и страст и да сте готови да му се посветите и да се развивате постоянно. При нас сме създали отлична организация на работата и екип от едни от най-добрите специалисти в областта.</p>
+		<div class="checkitem">
+		  <input id="designer" type="radio" value="Интериорен дизайнер" name="position">
+		  <label class="label" for="designer">Интериорен <b>дизайнер</b></label>
+		</div>
+		<div class="checkitem">
+		  <input id="architect" type="radio" value="Проектант интериор и инсталации" name="position">
+		  <label class="label" for="architect">Проектант <b>интериор и инсталации</b></label>
+		</div>
+		<div class="checkitem">
+		  <input id="engineer" type="radio" value="Проектант мебели" name="position">
+		  <label class="label" for="engineer">Проектант <b>мебели</b></label>
+		</div>
+		<div class="checkitem">
+		  <input id="artist" type="radio" value="Визуализатор" name="position">
+		  <label class="label" for="artist">3D <b>Визуализатор</b></label>
+		</div>
+		<div class="checkitem">
+		  <input id="supervisor" type="radio" value="Инвеститорски контрол" name="position">
+		  <label class="label" for="supervisor">Инвеститорски <b>контрол</b></label>
+		</div>
+	</div>
+
+    <h2><b>Автобиография</b> и <b>портфолио</b></h2>
+    <p>Не държим автобиографията да бъде в определен формат, от нея е важно да разберем само, къде сте изучавали висше и средно образование. На какви позиции, колко време и къде сте работили, както и основна информация като име, дата на раждане и координати за връзка.<br><br>Портфолиото е основно средство, за да представите своите умения и да привлечете вниманието ни. Важно е да представите своята работа, която е в областта на интерорния дизайн.</p>
+	<div id="files" class="upload">
+		<a id="upload-label">Автобиография и <b>портфолио</b></a>
+	</div>
+	<iframe id="upload" src="../../system/upload.html" scrolling="no" frameborder="0"></iframe>
+  	<label class="details">Изпращането на <b>Автобиография</b> и <b>портфолио</b> е задължително</label>
+</div>
+<div class="optional">
+	<div class="grid-sizer"></div>
+	<div class="gutter-sizer"></div>
+	<div class="item education">
+		<h1><b>Орбразование</b> и дoпълнителна квалификция</h1>
+		<p>За нас е важно да знаем не само къде сте учили, но и с какъв успех сте завършили образованието си. Ако все още сте студент, можете да отбележите успеха си до момента, както и това в кой курс сте е момента.</p>
+		<a class="additional visible" href="#school"><b>Училище и успех</b> от средното образование</a>
+		<textarea id="school" name="school"></textarea>
+		<a class="additional visible" href="#university"><b>Университет и успех</b> от висшето образование</a>
+		<textarea id="university" name="university"></textarea>
+		<div class="checkitem">
+			<input type="checkbox" value="Все още съм студент" name="student">
+			<label class="label" for="student">Все още съм студент</label>
+		</div> 
+		<a class="additional" href="#qualification">Дoпълнителна квалификация</a>
+		<textarea id="qualification" name="qualification"></textarea>
+	</div>
+	<div class="item experience">
+		<h1><b>Опит</b> на подобна позиция</h1>
+		<p>Опитът е много важен и определено е голямо предимство, но не се притеснявайте, ако нямате голям опит. Ако имате талант и желание, това е нещо, което непременно ще се постараем да забележим.</p>
+		<div class="checkitem">
+		  <input type="radio" value="Имам опит на подобна позиция" name="experience[]">
+		  <label class="label" for="experience"><b>Имам опит</b> на подобна позиция</label>
+		</div>
+		<div class="checkitem">
+		  <input type="radio" value="Нямам опит на подобна позиция" name="experience[]">
+		  <label class="label" for="experience"><b>Нямам опит</b> на подобна позиция</label>
+		</div>
+		<a class="additional visible" href="#experience">Предишен опит <b>свързан с позицията</b></a>
+		<textarea id="experience" name="experience[]"></textarea>
+	</div>
+	<div class="item job">
+		<h1>Вид <b>заетост</b></h1>
+		<p>Моля да отбележите вида заетост, която търсите. Търсим хора, с които да работим заедно и в екип, поради тази причина не предлагаме работа на freelance.</p>
+		<div class="checkitem">
+		  <input type="radio" value="Постоянна работа" name="job">
+		  <label class="label" for="job">Постоянна работа</label>
+		</div>
+		<div class="checkitem">
+		  <input type="radio" value="Стаж" name="job">
+		  <label class="label" for="job">Стаж</label>
+		</div>
+		<div class="checkitem">
+		  <input type="radio" value="Работа на непълен работен ден" name="job">
+		  <label class="label" for="job">Работа на непълен работен ден</label>
+		</div>
+	</div>
+	<div class="item office">
+		<h1><b>Месторабота</b>за където кандидатсвате</h1>
+		<p>За момента имаме два офиса. Основния офис е в София и втория ни офис във Варна. Затова е важно да отбележите месторабота, която желаете.</p>
+		<div class="checkitem">
+		  <input type="radio" value="София" name="office">
+		  <label class="label" for="office">София</label>
+		</div>
+		<div class="checkitem">
+		  <input type="radio" value="Варна" name="office">
+		  <label class="label" for="office">Варна</label>
+		</div>
+	</div>
+</div>
+<div class="important" id="user-info">
+  <h2>Информация <b>за контакт</b></h2>
+  <p>След като разгледаме вашата кандидатура ще ви изпратим имейл за това дали сте преминали предварително одобрение. Ще се постараем да дадем обективни аргументи за това, защо дадена кандидатура е одобрена или не.</p>
+  <ul>
+    <li>
+      <label class="details">Име</label>
+      <input type="text" name="name" size="20" required>
+    </li>
+    <li>
+      <label class="details">Телефон</label>
+      <input type="text" name="phone" size="20" required>
+    </li>
+    <li>
+      <label class="details">Email</label>
+      <input type="text" name="from" size="20" required>
+    </li>
+    <li>
+      <label class="details">Сайт</label>
+      <input type="text" name="web" size="20">
+    </li>
+  </ul>
+  <p>Ако в момента позицията, за която кандидатствате е отворена и сте преминали предварителното одобрение, ще ви поканим на интервю по телефона.</p>
+  <input type="submit" class="submit" value="Кандидатстване">
+</div>

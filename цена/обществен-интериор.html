@@ -1,0 +1,176 @@
+---
+layout: rfp
+rel: '/price/public'
+title: 'Запитване за (обществен интериор)'
+subtitle: 'Интериор на офис, магазин, ресторант, бар или хотел'
+description: 'За да Ви предоставим коректна оферта за обшествен интериорен проект, от ключово значение е да сте посочили предназанчението на обекта, особеностите на архутектурата на помещенията, квадратурата и да сте приложили актуални скици или снимки на обекта. В запитването посочете Ваши координати, за да се свържем лесно с Вас, в случай че в хода на нашата работа възникнат въпроси. Наш колега ще дойде на място да заснеме обекта с точните размери, само ако приемете офертата.'
+---
+<div id="site" class="important">
+	<h2><b>Предназначение</b> на обекта</h2>
+	<p>Какъв е типа на интериора – офис или мазагин, за какво ще се използва или ако е заведение какъв тип (дискотека, бар, сладкарница)?</p>
+	<div class="checkitem">
+	  <input id="purpose-1" type="radio" value="Офис" name="purpose">
+	  <label class="label" for="purpose-1"><b>Офис</b></label>
+	</div>
+	<div class="checkitem">
+	  <input id="purpose-2" type="radio" value="Ресторант" name="purpose">
+	  <label class="label" for="purpose-2"><b>Ресторант</b></label>
+	</div>
+	<div class="checkitem">
+	  <input id="purpose-3" type="radio" value="Магазин или друг търговски обект" name="purpose">
+	  <label class="label" for="purpose-3"><b>Магазин</b> или друг търговски обект</label>
+	</div>
+	<div class="checkitem">
+	  <input id="purpose-4" type="radio" value="Сладкарница" name="purpose">
+	  <label class="label" for="purpose-4"><b>Сладкарница</b></label>
+	</div>
+	<div class="checkitem">
+	  <input id="purpose-5" type="radio" value="Хотел" name="purpose">
+	  <label class="label" for="purpose-5"><b>Хотел</b></label>
+	</div>
+	<div class="checkitem">
+	  <input id="purpose-6" type="radio" value="Дискотека или бар" name="purpose">
+	  <label class="label" for="purpose-6"><b>Дискотека</b> или бар</label>
+	</div>
+	<a class="additional" href="#purpose">Друг вид обект</a>
+	<textarea id="purpose" name="purpose-other"></textarea>
+
+	<h2>Особенности на <b>архитектурата на обекта</b></h2>
+	<p>За нас е важно да знаем какви са особеностите на помещението - има ли големи простраства или се сътои от малки стаи с много чупки. Тази информация ни трябва, за да знаем как да подходим при работата над проекта.</p>
+	<div class="checkitem">
+	  <input id="architecture-1" type="checkbox" value="Има много чупки" name="architecture[]">
+	  <label class="label" for="architecture-1">Има много <b>чупки</b></label>
+	</div>
+	<div class="checkitem">
+	  <input id="architecture-2" type="checkbox" value="Има помещения с нестандартна форма" name="architecture[]">
+	  <label class="label" for="architecture-2">Има помещения с <b>нестандартна форма</b></label>
+	</div>
+
+	<a class="additional" href="#architecture">Други особенности в архитектурата на обекта</a>
+	<textarea id="architecture" name="architecture[]"></textarea>
+
+  <h2><b>Квадратура</b> на обекта</h2>
+  <p>При изпращането на запитване през нашия сайт трябва да посочите квадратурата на обекта върху който ще се работи. Моля имайте предвид, че след като обработим запитването ще Ви изпратим оферта с цена за квадратен метър. Ако тази цена Ви удовлетворява ще изпратим екип, който да измери точната квадратура на светлата част на обекта (без стени,носещи постройки и т.н.) След сключване на договора, сумата която ще заплатите ще бъде калкулирана, единствено върху измерената площ от нашия екип.</p>
+  <label class="details">Квадратура <b>за проектиране</b></label>
+  <input id="area" type="text" name="area" size="4">
+  <label class="details">m<span>2</span></label>
+  <h2><b>Актуални снимки и скици</b> на обекта</h2>
+  <p>Снимките от обекта ни дават ясна представа за етапа, на който се намира обекта, както и възможност да преценим неговите особенности. Можете да изберете и добавите множество снимки. Скицата ни трябва за да може да добием по-точна представа за архитектурата на обекта.</p>
+  <div id="files" class="upload">
+    <a id="upload-label">Снимки и <b>скици</b></a>
+  </div>
+  <iframe id="upload" src="../system/upload.html" scrolling="no" frameborder="0"></iframe>
+  <label class="details">Изпращането на <b>скица</b> и/или <b>снимки</b> от обекта <b>е задължително</b></label>
+</div>
+
+<div class="optional">
+  <div class="grid-sizer"></div>
+  <div class="gutter-sizer"></div>
+  <div class="item status">
+    <h1><b>Текущо състояние</b> на обекта</h1>
+    <p>Дали обекта е на груб строеж и има ли възможност да направим всички инсталации така както ги искаме. Дали има много неща които се запазват – например настилки или част от мебелите.</p>
+    <div class="checkitem">
+      <input id="condition-1" type="radio" value="Обектът е на груб строеж" name="condition[]">
+      <label class="label" for="condition-1">Обектът е на <b>груб строеж</b></label>
+    </div>
+    <div class="checkitem">
+      <input id="condition-2" type="radio" value="Обектът е работещ и ще се прави реконструкция" name="condition[]">
+      <label class="label" for="condition-2">Обектът е работещ и ще се прави реконструкция</label>
+    </div>
+    <div class="checkitem">
+      <input id="keep-1" type="checkbox" value="Ще се запазват подовите настилки или част от тях" name="keep[]">
+      <label class="label" for="keep-1">Ще се запазват подовите настилки или част от тях</label>
+    </div>
+    <div class="checkitem">
+      <input id="keep-2" type="checkbox" value="Ще се запазват част от мебелите" name="keep[]">
+      <label class="label" for="keep-2">Ще се запазват част от мебелите</label>
+    </div>
+    <a class="additional" href="#condition">Други особенности в текущото състояние на обекта</a>
+    <textarea id="condition" name="condition[]"></textarea>
+  </div>
+  <div class="item layout">
+    <h1>Към какво сте се насочили за <b>интериор на обекта</b></h1>
+    <p>За да придобием представа какво ще се търси като визия. За нас е важно да знаем дали сте се насочили към класически барокови мебели или към по-модерни и изчистени линии.</p>
+    <div class="checkitem">
+      <input id="style-1" type="radio" value="Интериорът ще е модерен и изчистен" name="style[]">
+      <label class="label" for="style-1">Интериорът ще е <b>модерен и изчистен</b></label>
+    </div>
+    <div class="checkitem">
+      <input id="style-2" type="radio" value="Интериорът ще включва класически или барокови елементи" name="style[]">
+      <label class="label" for="style-2">Ще включва <b>класически или барокови елементи</b></label>
+    </div>
+    <a class="additional" href="#style">Други особености за стила на обекта</a>
+    <textarea id="style" name="style[]"></textarea>
+  </div>
+  <div class="item layout">
+    <h1><b>Дизайнерски проекти </b> за инсталациите</h1>
+    <p>Ако не искате никакви промени означава, че ще се съобразите напълно с инсталациите и те ще определят разположението на мебелите. В случай, че искате да промените разпределението на мебелите или искате окачени тавани например ще се наложи да се направят промени и по инсталациите.</p>
+    <div class="checkitem">
+      <input id="layout-1" type="checkbox" value="Проект за Ел. инсталация" name="layout[]">
+      <label class="label" for="layout-1">Проект за <b>Ел. инсталация</b></label>
+    </div>
+    <div class="checkitem">
+      <input id="layout-2" type="checkbox" value="Проект за ВиК инсталация" name="layout[]">
+      <label class="label" for="layout-2">Проект за <b>ВиК инсталация</b></label>
+    </div>
+    <div class="checkitem">
+      <input id="layout-3" type="checkbox" value="Проект за ОВ инсталация" name="layout[]">
+      <label class="label" for="layout-3">Проект за <b>ОВ инсталация</b></label>
+    </div>
+    <div class="checkitem">
+      <input id="layout-4" type="checkbox" value="Ще се правят окачени тавани и/или ниши от гипсокартон" name="layout[]">
+      <label class="label" for="layout-4">Ще се правят окачени тавани и/или ниши от гипсокартон</label>
+    </div>
+    <a class="additional" href="#layout">Други промени, които мислите да правите на обекта</a>
+    <textarea id="layout" name="layout[]"></textarea>
+  </div>
+  <div class="item comments">
+    <h1><b>Допълнителни изисквания,</b> коментари или въпроси</h1>
+    <p>Ние даваме на клиентите си свободата да работят, както с нас за строително ремонтните дейности, така и със собствени майстори.</p>
+    <div class="checkitem">
+      <input id="construction-1" type="radio" value="Искате Ачерно да прави ремонта" name="construction[]">
+      <label class="label" for="construction-1">Искате <b>Ачерно да прави ремонта</b></label>
+    </div>
+    <div class="checkitem">
+      <input id="construction-2" type="radio" value="Имате собствени майстори, с които държите да работите" name="construction[]">
+      <label class="label" for="construction-2">Държите да работите със <b>собствени майстори</b></label>
+    </div>
+    <p>По същият начин стои въпроса и с производството на мебелите.</p>
+    <div class="checkitem">
+      <input id="furniture-1" type="radio" value="Искате мебелите да се произведат от Ачерно" name="furniture[]">
+      <label class="label" for="furniture-1">Искате <b>мебелите да се произведат от Ачерно</b></label>
+    </div>
+    <div class="checkitem">
+      <input id="furniture-2" type="radio" value="Мебелите ще се произвеждат от друга фирма" name="furniture[]">
+      <label class="label" for="furniture-2">Мебелите ще се произвеждат от <b>друга фирма</b></label>
+    </div>
+  </div>
+</div>
+
+<div class="important" id="user-info">
+  <h2>Информация <b>за контакт</b></h2>
+  <p>За да се свържем с вас, ако имаме допълнителни въпроси, както и за да можем да ви върнем отговор на изпратеното запитване. Всички полета в информацията за контакт са задължителни за успешното изпращане на запитването.</p>
+  <ul>
+    <li>
+      <label class="details">Име</label>
+      <input type="text" name="name" size="20">
+    </li>
+    <li>
+      <label class="details">Телефон</label>
+      <input type="text" name="phone" size="20">
+    </li>
+    <li>
+      <label class="details">Email</label>
+      <input type="text" name="from" size="20">
+    </li>
+    <li>
+      <label class="details">Град</label>
+      <input type="text" name="city" size="20">
+    </li>
+  </ul>
+  <p>Задължително оставете и координати за да може да се свържем с вас при възникнали въпроси.</p>
+  <a class="additional visible" href="#comments">Допълнителни коментари и изисквания</a>
+  <textarea id="comments" name="comments"></textarea>
+  <p>За да започнем да работим заедно, трябва да ни изпратите запитване, в което сте посочили необходимата ни информация (ако нямате тaзи информация или ви е трудно да ни я предоставите, може да се разберем направо за оглед или среща в офиса ни).</p>
+  <input type="submit" class="submit" value="Изпращане на запитването">
+</div>
