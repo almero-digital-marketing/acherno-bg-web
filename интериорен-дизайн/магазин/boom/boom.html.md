@@ -1,7 +1,4 @@
 ---
-todo:
-  - 'Липсва facebook предложение'
-
 layout: project
 rel: '/projects/public/boom' 
 order: 58
