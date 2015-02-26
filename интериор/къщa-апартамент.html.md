@@ -1,5 +1,6 @@
 ---
 layout: projects
+referencesOthers: true
 rel: '/projects/private'
 parent: '/projects'
 title: '(Жилищен) интериор'
