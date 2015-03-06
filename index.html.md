@@ -20,7 +20,7 @@ facebook:
   description: 'Pазгледайте снимки от международни изложения, коментирайте нашитe проекти или следeте за нови.'
   url: 'http://www.facebook.com/acherno.interior.design'
 copyright:
-  acherno: '(Ачерно) ЕООД © 2007-2014|(Всички права запазени)'
+  acherno: '(Ачерно) ЕООД © 2007-2015|(Всички права запазени)'
   almero: 
     title: '(Дигитален Маркетинг) и|(Бизнес) развитие'
     url: http://almero.bg
