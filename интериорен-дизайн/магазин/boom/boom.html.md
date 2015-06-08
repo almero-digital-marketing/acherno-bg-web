@@ -26,3 +26,19 @@ rooms:
     b3d: 'http://hub.acherno.com/svn/boom/Site/3D/06-mag_f.jpg'
 ---
 Хиляди балончета се пръсват из водата, покриват я с гъста пяна и наситен сладък аромат и гледаш как ароматната бомба се разтваря бавно и завладява сетивата ти. 
+
+campaigns:
+  -
+    campaign: 'M-30+' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno'
+    content: 'Acherno-Interior-Design'
+    id: 1MBvB1Z
+  -
+    campaign: 'W-24+' 
+    source: facebook
+    medium: cpc
+    term: 'Acherno'
+    content: 'Acherno-Interior-Design'
+    id: 1GluaE0
