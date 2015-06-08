@@ -24,9 +24,6 @@ rooms:
     pageLayout: 7
     a3d: 'http://hub.acherno.com/svn/boom/Site/3D/05-mag_f.jpg'
     b3d: 'http://hub.acherno.com/svn/boom/Site/3D/06-mag_f.jpg'
----
-Хиляди балончета се пръсват из водата, покриват я с гъста пяна и наситен сладък аромат и гледаш как ароматната бомба се разтваря бавно и завладява сетивата ти. 
-
 campaigns:
   -
     campaign: 'M-30+' 
@@ -41,4 +38,6 @@ campaigns:
     medium: cpc
     term: 'Acherno'
     content: 'Acherno-Interior-Design'
-    id: 1GluaE0
+    id: 1GluaE0    
+---
+Хиляди балончета се пръсват из водата, покриват я с гъста пяна и наситен сладък аромат и гледаш как ароматната бомба се разтваря бавно и завладява сетивата ти. 
