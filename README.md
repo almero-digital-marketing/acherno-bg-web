@@ -1,5 +1,5 @@
 # Интериорен дизайн, строителство и ремонт, мебели и обзавеждане
-[![Build Status](http://dev.almero.pro/acherno.bg/status/build.svg?v8)](http://dev.almero.pro/acherno.bg)
+[![Build Status](http://dev.almero.pro/acherno.bg/status/build.svg?v9)](http://dev.almero.pro/acherno.bg)
 [![Debug Log](https://img.shields.io/badge/debug-log-lightgrey.svg)](http://dev.almero.pro:8080)
 [![Published](http://acherno.bg/status/published.svg)](http://acherno.bg)
 
