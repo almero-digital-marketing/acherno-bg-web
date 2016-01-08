@@ -1,6 +1,6 @@
 ---
-rel: '/contacts/jobs/application'
-layout: application
+layout: /web/application.ect
+href: '/web/contacts/jobs/application'
 sitemap: false
 title: 'Кандидатстване'
 subtitle: 'Работа и стаж в Ачерно'
@@ -37,14 +37,14 @@ description: 'Имате възможност да кандидатствате 
 	<div id="files" class="upload">
 		<a id="upload-label">Автобиография и <b>портфолио</b></a>
 	</div>
-	<iframe id="upload" src="../../system/upload.html" scrolling="no" frameborder="0"></iframe>
+	<iframe id="upload" src="../../system/upload.html"></iframe>
   	<label class="details">Изпращането на <b>Автобиография</b> и <b>портфолио</b> е задължително</label>
 </div>
 <div class="optional">
 	<div class="grid-sizer"></div>
 	<div class="gutter-sizer"></div>
 	<div class="item education">
-		<h1><b>Орбразование, успех</b> и дoпълнителна квалификция</h1>
+		<h2><b>Орбразование, успех</b> и дoпълнителна квалификция</h2>
 		<p>За нас е важно да знаем не само къде сте учили, но и с какъв успех сте завършили образованието си.</p>
 		<a class="additional visible" href="#school"><b>Училище и успех</b> от средното образование</a>
 		<textarea id="school" name="school"></textarea>
@@ -52,7 +52,7 @@ description: 'Имате възможност да кандидатствате 
 		<textarea id="university" name="university"></textarea>
 		<p>Ако все още сте студент, можете да отбележите успеха си до момента, както и това в кой курс сте е момента.</p>
 		<div class="checkitem">
-			<input type="checkbox" value="Все още съм студент" name="student">
+			<input type="checkbox" id="student" value="Все още съм студент" name="student">
 			<label class="label" for="student">Все <b>още съм студент</b></label>
 		</div> 
 		<p>Ако имате допълнителна квалификация, която смятате за свързана с позицията, за която кандидатствате, моля отбележете и нея.</p>
@@ -60,45 +60,45 @@ description: 'Имате възможност да кандидатствате 
 		<textarea id="qualification" name="qualification"></textarea>
 	</div>
 	<div class="item experience">
-		<h1><b>Опит</b> на подобна позиция</h1>
+		<h2><b>Опит</b> на подобна позиция</h2>
 		<p>Опитът е много важен и определено е голямо предимство, но не се притеснявайте, ако нямате голям опит. Ако имате талант и желание, това е нещо, което непременно ще се постараем да забележим.</p>
 		<div class="checkitem">
-		  <input type="radio" value="Имам опит на подобна позиция" name="experience[]">
-		  <label class="label" for="experience"><b>Имам опит</b> на подобна позиция</label>
+		  <input id="with-experience" type="radio" value="Имам опит на подобна позиция" name="experience[]">
+		  <label class="label" for="with-experience"><b>Имам опит</b> на подобна позиция</label>
 		</div>
 		<div class="checkitem">
-		  <input type="radio" value="Нямам опит на подобна позиция" name="experience[]">
-		  <label class="label" for="experience"><b>Нямам опит</b> на подобна позиция</label>
+		  <input id="without-experience" type="radio" value="Нямам опит на подобна позиция" name="experience[]">
+		  <label class="label" for="without-experience"><b>Нямам опит</b> на подобна позиция</label>
 		</div>
 		<a class="additional visible" href="#experience">Предишен опит <b>свързан с позицията</b></a>
 		<textarea id="experience" name="experience[]"></textarea>
 	</div>
 	<div class="item job">
-		<h1>Вид <b>заетост</b></h1>
+		<h2>Вид <b>заетост</b></h2>
 		<p>Моля да отбележите вида заетост, която търсите. Търсим хора, с които да работим заедно и в екип, поради тази причина не предлагаме работа на freelance.</p>
 		<div class="checkitem">
-		  <input type="radio" value="Постоянна работа" name="job">
-		  <label class="label" for="job">Постоянна работа</label>
+		  <input type="radio" id="full-time-job" value="Постоянна работа" name="job">
+		  <label class="label" for="full-time-job">Постоянна работа</label>
 		</div>
 		<div class="checkitem">
-		  <input type="radio" value="Стаж" name="job">
-		  <label class="label" for="job">Стаж</label>
+		  <input type="radio" id="probationer" value="Стаж" name="job">
+		  <label class="label" for="probationer">Стаж</label>
 		</div>
 		<div class="checkitem">
-		  <input type="radio" value="Работа на непълен работен ден" name="job">
-		  <label class="label" for="job">Работа на непълен работен ден</label>
+		  <input type="radio" id="part-time-job" value="Работа на непълен работен ден" name="job">
+		  <label class="label" for="part-time-job">Работа на непълен работен ден</label>
 		</div>
 	</div>
 	<div class="item office">
-		<h1><b>Месторабота</b>за където кандидатсвате</h1>
+		<h2><b>Месторабота</b>за където кандидатсвате</h2>
 		<p>За момента имаме два офиса. Основния офис е в София и втория ни офис във Варна. Затова е важно да отбележите месторабота, която желаете.</p>
 		<div class="checkitem">
-		  <input type="radio" value="София" name="office">
-		  <label class="label" for="office">София</label>
+		  <input id="office-sofia" type="radio" value="София" name="office">
+		  <label class="label" for="office-sofia">София</label>
 		</div>
 		<div class="checkitem">
-		  <input type="radio" value="Варна" name="office">
-		  <label class="label" for="office">Варна</label>
+		  <input id="office-varna" type="radio" value="Варна" name="office">
+		  <label class="label" for="office-varna">Варна</label>
 		</div>
 	</div>
 </div>
