@@ -1,0 +1,85 @@
+href: /web/projects/private/okolosvetsko-pateshestvie
+order: 40
+coverLayout: 1
+price: 70
+design: (Стилно обзавеждане) на апартамент
+project: Околосветско пътешествие
+title: Интериор на апартамент (Околосветско пътешествие)
+subtitle: Пъзел от (мечти и спомени)
+description: Куфарите са готови и те чакат до входната врата. Билети, паспорт, камера, пари, ключове... Май си взел всичко. Изпиваш още няколко дълги глътки кафе в стилната всекидневна, оставяш празната чаша на черния кухненски плот и се отправяш към ново приключение. Нямаш никакво търпение. Все пак целият свят очаква теб.
+image: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Realizacia/DHM24774.JPG
+
+content:
+Куфарите са готови и те чакат до входната врата. Билети, паспорт, камера, пари, ключове... Май си взел всичко. Изпиваш още няколко дълги глътки кафе в стилната всекидневна, оставяш празната чаша на черния кухненски плот и се отправяш към ново приключение. Нямаш никакво търпение. Все пак целият свят очаква теб. Ще караш ски? Или сърф? Или си се запътил към отдавна мечтана екзотична дестинация? Отправяш се на изток? Или пък на запад? Без значение от настоящата цел, важното е, че след всяко приключение уютният ти, красив дом с модерен интериорен дизайн ще те посрещне, за да го изпълниш с нов смисъл, енергия и ценни моменти.
+:end
+
+[rooms]
+    title: Вътрешен дизайн на (всекидневна)
+    description: Голямата всекидневна е туптящото сърце на апартамента. В нея се случват едни от най-важните събития в твоя живот, едни от най-хубавите спомени се създават тук. Това помещение е свързано и с планирането на пътуванията ти. Докато гледаше нагоре към светлините на графитеносивия окачен таван и голямото осветително тяло на бял фон, си мечтаеше да отидеш поне за седмица на непознато и диво място, което да те извади от делника и да те накара да се възхитиш.
+    project: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/03-h-f.bmp
+    final: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Realizacia/DHM24749_1.JPG
+    pageLayout: 1
+
+    title: Интериорен дизайн на (хол)
+    description: Представяше си светлините като безброй далечни звезди, напръскали мастиленото небе и наобиколили ленивата луна. После се натъкна на документален филм за Бали по телевизията и окончателно се влюби в идеята за това пътуване. Виждаше натуралните цветове на обзавеждането вкъщи – бяло, сиво, топли дървесни нюанси, бежово, и всяко най-малко стайно растение като напомняния за мечтаното пътуване. И така, докато един ден, както се излежаваше по корем на любимия си сив диван, не взе лаптопа и не резервира билети за Бали. За какво са мечтите, ако не за сбъдване?
+    project: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/02-h-f.bmp
+    final: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Realizacia/DHM24731.jpg
+    pageLayout: 5
+
+    title: Мебели и обзавеждане на (кухня)
+    description: В кухнята можеш да експериментираш с вкусове от цял свят. Модерният изчистен дизайн в бяло и черно е скрил в себе си всичко, което ти е необходимо за целта. Днес решаваш да приготвиш ястие от традиционната българска кухня, утре – типично френски пухкав хляб или английски мъфини, а защо не и нещо по-смело с пикантен индийски привкус. Ти си майстор-готвачът, ти решаваш, а близките ти се радват на резултатите от кулинарните изяви.
+    project: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/04-k-f.bmp
+    final: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Realizacia/DHM24779.jpg
+    pageLayout: 4
+
+    title: Вътрешен дизайн на (антре)
+    description: Антрето винаги е на едно и също място, и за да те изпрати, и за те посрещне. То е едновременно изход и вход в дома. Именно затова ти държеше да е не само уютно, но и снабдено с всичко, което ти е необходимо за последните приготовления, преди да излезеш. Грабваш шала от закачалката, оглеждаш се и потегляш – не можеш да закъсняваш, особено за приятните преживявания.
+    project: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/05-a-f.bmp
+    final: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Realizacia/DHM24896.jpg
+    pageLayout: 9
+
+    title: Обзавеждане на (спалня)
+    description: Където и да пътешестваш, ще откриеш, че никъде другаде няма да спиш на легло като своето. Бялото и нежните натурални тонове успокояват съзнанието ти и можеш да си починеш пълноценно.
+    project: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/06-s-f.jpg
+    final: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Realizacia/DHM24829-HDR.JPG
+    pageLayout: 5
+
+    title: Вътрешен дизайн на (спалня)
+    description: Сънят на високото бяло легло наистина е като на облак, носещ се в синия небесен простор.
+    project: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/07-s-f.jpg
+    final: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Realizacia/DHM24849-HDR.JPG
+    pageLayout: 4
+
+    title: Интериор на (работна зона)
+    description: Няколко крачки и се озоваваш в работната зона, отделена от спалнята чрез гардероби. Това е мястото, където работиш на най-високи обороти, когато си вкъщи.
+    project: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/10-s-f.jpg
+    final: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Realizacia/DHM24877-HDR.JPG
+    pageLayout: 3
+
+    title: Вътрешен дизайн на (баня)
+    description: Усещането да си вземеш душ в любимата баня след дълго пътуване е страхотно. Вече си в свои води, подсказват го мозаечните плочки по стената – като сребристи люспи на вълшебна риба.
+    project: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/12-b-f.jpg
+    final: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Realizacia/DHM24811.jpg
+    pageLayout: 8
+
+    title: Интериорен дизайн на (баня)
+    description: Чуваш как водната струя отнася умората със себе си. Това, което остава за теб, са събраните слънчеви лъчи и положителните емоции от преживяното.
+    project: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/13-b-f.jpg
+    final: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Realizacia/DHM24826.JPG
+    pageLayout: 9
+[]
+
+[constructions]
+  -
+    title: Ремонт на всекидневна
+    image: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Remonti/IMG_9480.JPG
+  -
+    title: Ремонт на кухня
+    image: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Remonti/IMG_9485.JPG
+  -
+    title: Ремонт на антре
+    image: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Remonti/IMG_9308.JPG
+  -
+    title: Ремонт на баня
+    image: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Remonti/IMG_9317.JPG
+[]
