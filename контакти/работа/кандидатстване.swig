@@ -17,11 +17,11 @@ Email: **{{ from }}**
 * [{{ element|replace('http://api.acherno.com:8080/files/', '') }}]({{ element }})
 {% endfor %}
 
-## Орбразование и дoпълнителна квалификция
+## Образование и допълнителна квалификация
 Средно образование: **{{ school }}**
 Висше образование: **{{ university }}**
 **{{ student }}**
-Дoпълнителна квалификация: **{{ qualification }}**
+Допълнителна квалификация: **{{ qualification }}**
 
 ## Опит на подобна позиция
 {% for element in experience %}
