@@ -18,19 +18,19 @@ content:
     description: Още в антрето разбираш, че излъчването на интериора е топло. Дизайнът на мебелите е изчистен. Виждаш шкафове и гардероб, който ти напомня триптих: в средата е отражението ти в огледалото, а отстрани са двете крила, покрити с части от ръкописен текст. Само кожената табуретка в кафяво загатва стила на част от обзавеждането в домa.
     project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/01-a_f.jpg
     final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/01-a_f.jpg
-    pageLayout: 9
+    pageLayout: 8
 
     title: Вътрешен дизайн на (стълбище)
     description: Стълбището те привлича с изящно изработените детайли на парапета от ковано желязо.
     project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/02-a_f.jpg
     final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/02-a_f.jpg
-    pageLayout: 8
+    pageLayout: 9
 
     title: Интериорен дизайн на (хол)
     description: Пристъпваш в хола и виждаш внушително големия кожен диван в шоколадов цвят. Още преди да си седнал, знаеш, че е удобен. Сядаш и се чувстваш у дома си. През прозорците нахлува светлина.
     project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/11-h-et1_f.jpg
     final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/11-h-et1_f1.jpg
-    pageLayout: 5
+    pageLayout: 6
 
     title: Интериор на (всекидневна)
     description: Най-приятно е, когато в студените зимни вечери цялото семейство е вкъщи, пред пламъците, горящи в камината, облицована със стенна каменна декорация. Заедно сте и гледате любима комедия, която предизвиква бурен смях у всички ви.
@@ -42,43 +42,37 @@ content:
     description: Всяко голямо семейство се нуждае от хубава, функционална кухня, в която пространството е оптимизирано така, че да не се налага ти и близките ти да се прескачате сутрин. Един си прави кафе, друг – сандвич, трети – яйца, четвърти се опитва да стигне до млякото в хладилника и т.н. Всичко това е отчетено и в твоята кухня всяко нещо си е на мястото. Освен това е красива, с бели шкафове с модерен дизайн, плот от технически камък в тъмнокафяво и гръб, приличащ на пачуърк. Тук радваш любимите си хора с кулинарни шедьоври.
     project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/13-k-et1_f.jpg
     final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/13-k-et1_f.jpg
-    pageLayout: 3
+    pageLayout: 4
 
     title: Вътрешен дизайн на (трапезария)
     description: Моментите, прекарани със семейството около трапезата, също имат особено място в живота ти. Когато вечеряте заедно и споделяте подробности от изминалия ден, всъщност споделяте най-ценното – времето си. Думите създават невидими връзки, а видимият материален свят в трапезарията радва окото. Масивна дървена маса със стъкло и шест стола с кожена тапицерия в цвят на натурален шоколад.
     project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/17-t-et1_f.jpg
     final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/17-t-et1_f.jpg
-    pageLayout: 4
+    pageLayout: 3
 
     title: Интериор на (спалня)
     description: Пролетта е събудила цветята. Гордо издигат крехките си цветове. Нежните нюанси в спалнята на първия етаж напомнят опита на деликатно цвете да се издигне от земята. Бледорозовото допълва бялото и слоновата кост, за да създаде една безкрайно приятна атмосфера, в която можеш да се отпуснеш.
     project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/18-s-et1_f.jpg
     final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/18-s-et1_f.jpg
-    pageLayout: 5
+    pageLayout: 6
 
     title: Мебели и обзавеждане на (спалня)
     description: Сънят в просторното легло е като топла прегръдка. Меката светлина на лампите хвърля бегли отблясъци по гланцовите повърхности на модерните мебели. Събуждаш се отпочинал и се насочваш към големия трикрилен гардероб, за да решиш кои са дрехите за неотразима визия днес. Свежите пролетни тонове ще те заредят с настроение. Огледай се. Това се казва добър избор!
     project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/19-s-et1_f.jpg
     final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/19-s-et1_f.jpg
-    pageLayout: 6
+    pageLayout: 5
 
     title: Интериорен дизайн на (спалня)
     description: На втория етаж цъфтежът е в своя апогей. Погледът ти е завладян от атмосферата, създадена от бялото и лилавото, преливащо в бледосиво. Леглото с балдахин те кара да се чувстваш като герой от приказка.
     project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/20-s-et2_f.jpg
     final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/20-s-et2_f.jpg
-    pageLayout: 3
+    pageLayout: 4
 
     title: Интериор на (спалня)
     description: Дори капризната знатна девойка от „Принцесата и граховото зърно“ би се насладила на съня в това легло.
     project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/21-s-et2_f.jpg
     final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/21-s-et2_f.jpg
-    pageLayout: 4
-
-    title: Дизайн на (спалня и дневна)
-    description: От дневната, разположена в същото помещение като спалнята, те делят само две стъпала. Невинаги ти се спи, човек си почива и по друг начин. Отпускаш се на бялото кожено канапе за почивка. Минали са часове, неусетно си прочел десетки страници, а искаше да си припомниш само един любим цитат. Мекият бял диван предлага още комфорт и те приканва от ъгъла. Направи няколко коктейла, извикай компания и се настани удобно пред телевизора.
-    project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/23-s-et2_f.jpg
-    final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/23-s-et2_f.jpg
-    pageLayout: 10
+    pageLayout: 3
 
     title: Интериорен дизайн на (баня)
     description: Като продължение на пролетта в спалнята, банята също обгръща съзнанието ти с нежни нюанси – бяло, бледорозово и графитеносиво. Едната от стените е скосена и светлината, която влиза през прозореца, създава интересни визуални ефекти, докато си под душа.
@@ -86,65 +80,71 @@ content:
     final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/28-b-et2_f.jpg
     pageLayout: 2
 
+    title: Дизайн на (спалня и дневна)
+    description: От дневната, разположена в същото помещение като спалнята, те делят само две стъпала. Невинаги ти се спи, човек си почива и по друг начин. Отпускаш се на бялото кожено канапе за почивка. Минали са часове, неусетно си прочел десетки страници, а искаше да си припомниш само един любим цитат. Мекият бял диван предлага още комфорт и те приканва от ъгъла. Направи няколко коктейла, извикай компания и се настани удобно пред телевизора.
+    project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/23-s-et2_f.jpg
+    final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/23-s-et2_f.jpg
+    pageLayout: 10
+
     title: Обзавеждане на (втора баня)
     description: Във втората баня също има прозорец, но и луни по окачения таван. Основният акцент е цветът на малиново вино. Флоралните мотиви са като истинска цветна градина през лятото. Кокетни ниши.
     project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/31-b-o-et2_f.jpg
     final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/31-b-o-et2_f.jpg
-    pageLayout: 11
+    pageLayout: 2
 
     title: Интериор на (втора баня)
     description: Ако имаш повече време, отиди в тази баня. Тя е по-просторна. Отдай се на релакс във ваната и забрави за всичко останало.
     project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/29-b-o-et2_f.jpg
     final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/29-b-o-et2_f.jpg
-    pageLayout: 2
+    pageLayout: 11
 
     title: Вътрешен дизайн на (детска стая)
     description: Колкото и сърдечен да е един домакин, той не може да бъде по-истински от децата. Заповядай в детската стая. Малкият домакин ще те дари с усмивка. Ще те покани в своя собствен свят, построен от лего.
     project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/32-d-et2_f.jpg
     final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/32-d-et2_f.jpg
-    pageLayout: 3
+    pageLayout: 4
 
     title: Интериорен дизайн на (детска стая)
     description: Жълто, синьо и зелено – слънцето, небето, морето и тревата. Ще те запознае с приятелите си: Тигъра, Мечо Пух, Прасчо и Йори. Ще излезеш от стаята зареден с оптимизъм.
     project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/33-d-et2_f.jpg
     final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/33-d-et2_f.jpg
-    pageLayout: 4
+    pageLayout: 3
 
     title: Вътрешен дизайн в (гардеробна)
     description: Истински триумф на пролетта. Удобен кожен стол в бяло, разположен в центъра на преходното помещение. Два големи бели гардероба с плъзгащи се врати.
     project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/09-g-et2_f.jpg
     final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/09-g-et2_f.jpg
-    pageLayout: 5
+    pageLayout: 6
 
     title: Мебели и обзавеждане в (гардеробна)
     description: Стълбата се вие нагоре като вълшебно бобено стебло. Сякаш цветята по парапета от ковано желязо, боядисано в бяло, са напълно истински. Изглеждат крехки, а всъщност са част от стабилната неподвижна конструкция.
     project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/10-g-et2_f.jpg
     final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/10-g-et2_f.jpg
-    pageLayout: 6
+    pageLayout: 5
 
     title: Интериор на (преходна стая)
     description: Витата стълба с дървени стъпала води към още едно преходно помещение. Стените са в нежен бледорозов цвят, а непосредствено до тях е предвидено място за сядане. Почивка с чаша чай в ръка? Наслада от хубавата музика? Завладяващ разговор? Меките възглавници те приканват да седнеш и да изживееш мига.
     project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/08-s-et3_f.jpg
     final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/08-s-et3_f.jpg
-    pageLayout: 2
+    pageLayout: 11
 
     title: Интериорен дизайн на (спалня и дневна)
     description: На третия етаж се оказваш в поредната вариация на пролетно-лятна тема, достойна за модерна принцеса. Усещането тук е за приказна хармония.
     project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/05-s-et3_f.jpg
     final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/05-s-et3_f.jpg
-    pageLayout: 4
+    pageLayout: 5
 
     title: Вътрешен дизайн на (спалня и дневна)
     description: Елегантно изпълнение на модерен барок и типично момичешки, романтичен интериорен дизайн на спалня и дневна в бледорозово. Едно лично пространство, изпълнено с деликатни, внимателно подбрани акценти в отделните зони – спалня, работен кът, дневна.
     project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/07-s-et3_f.jpg
     final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/07-s-et3_f.jpg
-    pageLayout: 5
+    pageLayout: 4
 
     title: Обзавеждане на (баня)
     description: Банята е естествено продължение на стаята на третия етаж: романтични нотки, скосени стени, бяло, екрю и тъмна циклама. В това пролетно-лятно тайнство на цветята водните струи звучат като малки горски поточета.
     project: http://hub.acherno.com/svn/mezhdu-sezonite/Site/3D/25-b-et3_f.jpg
     final: http://hub.acherno.com/svn/mezhdu-sezonite/Site/Realizacia/25-b-et3_f.jpg
-    pageLayout: 2
+    pageLayout: 11
 []
 
 [constructions]
