@@ -14,47 +14,47 @@ content:
 :end
 
 [rooms]
-	title: Вътрешен дизайн на (всекидневна)
-	description: Всекидневната е по-скоро хол, кухня и трапезария в едно. Съчетание между топло кафяво, мръсно бяло, почти прозрачно лилаво и лампи и столове с характерна и допълваща се визия.
-	project: http://hub.acherno.com/svn/aero-shokolad/Site/3D/33-fin.jpg
-	final: http://hub.acherno.com/svn/aero-shokolad/Site/Finalni/21.jpg
-	pageLayout: 4
+title: Вътрешен дизайн на (всекидневна)
+description: Всекидневната е по-скоро хол, кухня и трапезария в едно. Съчетание между топло кафяво, мръсно бяло, почти прозрачно лилаво и лампи и столове с характерна и допълваща се визия.
+project: http://hub.acherno.com/svn/aero-shokolad/Site/3D/33-fin.jpg
+final: http://hub.acherno.com/svn/aero-shokolad/Site/Finalni/21.jpg
+pageLayout: 4
 
-	title: Интериор на (спалня)
-	description: Тук отново властва вече познатата от хола комбинация на бяло, дърво и лилаво. Обстановката е уютна и приятна и дори може да те предразположи да поработиш на компактното бюро.
-	project: http://hub.acherno.com/svn/aero-shokolad/Site/3D/53-fin.jpg
-	final: http://hub.acherno.com/svn/aero-shokolad/Site/Finalni/2.jpg
-	pageLayout: 2
+title: Интериор на (спалня)
+description: Тук отново властва вече познатата от хола комбинация на бяло, дърво и лилаво. Обстановката е уютна и приятна и дори може да те предразположи да поработиш на компактното бюро.
+project: http://hub.acherno.com/svn/aero-shokolad/Site/3D/53-fin.jpg
+final: http://hub.acherno.com/svn/aero-shokolad/Site/Finalni/2.jpg
+pageLayout: 2
 
-	title: Обзавеждане и интериор на (антре)
-	description: Ненатрапчивата линия на окачения таван те води и насочва. Лампите, скрити в улея, осветяват всичко толкова добре, че нямаш онова неприятно чувство, че пристъпваш в полумрак.
-	project: http://hub.acherno.com/svn/aero-shokolad/Site/3D/01_fin.jpg
-	final: http://hub.acherno.com/svn/aero-shokolad/Site/Finalni/10.jpg
-	pageLayout: 7
+title: Обзавеждане и интериор на (антре)
+description: Ненатрапчивата линия на окачения таван те води и насочва. Лампите, скрити в улея, осветяват всичко толкова добре, че нямаш онова неприятно чувство, че пристъпваш в полумрак.
+project: http://hub.acherno.com/svn/aero-shokolad/Site/3D/01_fin.jpg
+final: http://hub.acherno.com/svn/aero-shokolad/Site/Finalni/10.jpg
+pageLayout: 7
 
-	title: Вътрешен дизайн на (баня)
-	description: Лилаво. То е свързващата нишка между всички помещения. Върви като плавен преход от едно помещение в друго. В тази баня е наситено и подчертано от фризови плочки с принтове на орхидеи.
-	project: http://hub.acherno.com/svn/aero-shokolad/Site/3D/61-fin.jpg
-	final: http://hub.acherno.com/svn/aero-shokolad/Site/Finalni/6.jpg
-	pageLayout: 8
+title: Вътрешен дизайн на (баня)
+description: Лилаво. То е свързващата нишка между всички помещения. Върви като плавен преход от едно помещение в друго. В тази баня е наситено и подчертано от фризови плочки с принтове на орхидеи.
+project: http://hub.acherno.com/svn/aero-shokolad/Site/3D/61-fin.jpg
+final: http://hub.acherno.com/svn/aero-shokolad/Site/Finalni/6.jpg
+pageLayout: 8
 []
 
 [constructions]
-	title: Шпакловане и замазка
-	image: http://hub.acherno.com/svn/aero-shokolad/Site/Remonti/IMAG0185.jpg
+title: Шпакловане и замазка
+image: http://hub.acherno.com/svn/aero-shokolad/Site/Remonti/IMAG0185.jpg
 
-	title: Ремонт на спалня
-	image: http://hub.acherno.com/svn/aero-shokolad/Site/Remonti/IMAG0170.jpg
+title: Ремонт на спалня
+image: http://hub.acherno.com/svn/aero-shokolad/Site/Remonti/IMAG0170.jpg
 
-	title: Ремонт на баня
-	image: http://hub.acherno.com/svn/aero-shokolad/Site/Remonti/IMAG0166.jpg
+title: Ремонт на баня
+image: http://hub.acherno.com/svn/aero-shokolad/Site/Remonti/IMAG0166.jpg
 
-	title: Ремонт на всекидневна
-	image: http://hub.acherno.com/svn/aero-shokolad/Site/Remonti/IMAG0179.jpg
+title: Ремонт на всекидневна
+image: http://hub.acherno.com/svn/aero-shokolad/Site/Remonti/IMAG0179.jpg
 
-	title: Къртене и бутане
-	image: http://hub.acherno.com/svn/aero-shokolad/Site/Remonti/IMAG0209.jpg
+title: Къртене и бутане
+image: http://hub.acherno.com/svn/aero-shokolad/Site/Remonti/IMAG0209.jpg
 
-	title: Ремонт на антре
-	image: http://hub.acherno.com/svn/aero-shokolad/Site/Remonti/IMAG0178.jpg
+title: Ремонт на антре
+image: http://hub.acherno.com/svn/aero-shokolad/Site/Remonti/IMAG0178.jpg
 []
