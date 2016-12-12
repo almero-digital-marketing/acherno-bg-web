@@ -1,8 +1,8 @@
 href: /web/projects/private/gorska-feya
 order: 46
-coverLayout: 6
-price: 90
-design: Малки и големи вълшебства в (класически стил))
+coverLayout: 5
+price: 70
+design: Малки и големи вълшебства в (класически стил)
 project: Горска фея
 title: Интериор на апартамент (Горска фея)
 subtitle: вечна пролет у дома
@@ -11,79 +11,85 @@ image: http://hub.acherno.com/svn/gorska-feya/Site/Finalni/01-cover.jpg
 
 content:
 Естествена красота. Светлина, процеждаща се през короните на дърветата и създаваща магически ефекти по пътеката пред теб. Лек ветрец разрошва косите ти. В края на пътя виждаш грижливо поддържана розова градина...
-
 Може да ти се струва, че си в къща на фея, сгушена между дърветата в гората, но всъщност това е чаровен градски апартамент, в който да избягаш от сивотата на делника. Чувстваш се така, сякаш вечно си живял тук: на душата ѝ е леко, а на тялото – комфортно. Погледът ти се плъзга по изящните плавни форми, оцветени в бяло и бледи нюанси на бежовото и розовото.
 :end
 
+
 [rooms]
-title: Вътрешен дизайн на (хол)
-description: 
+title: Вътрешен дизайн на (всекидневна)
+description: Разкош в светли тонове. Нежно излъчване и уют. Пристъпваш по дървения под и заемаш централното място в хола – удобно зелено кресло с аристократичен вид. Имаш изглед към цялото помещение на всекидневната и предостатъчно естествена светлина за четене. Взимаш оставеното на холната маса списание, темата му завладява мислите ти, а времето тече неусетно.
 project: http://hub.acherno.com/svn/gorska-feya/Site/3D/01-h-f.jpg
 final: http://hub.acherno.com/svn/gorska-feya/Site/Finalni/01-h-f.jpg
-pageLayout: 5
-
-title: Интериор на (всекидневна)
-description: 
-project: http://hub.acherno.com/svn/gorska-feya/Site/3D/02-h-f.jpg
-final: http://hub.acherno.com/svn/gorska-feya/Site/Finalni/02-h-f.jpg
-pageLayout: 4
-
-title: Интериорен дизайн на (трапезария)
-description: 
-project: http://hub.acherno.com/svn/gorska-feya/Site/3D/03-h-f.jpg
-final: http://hub.acherno.com/svn/gorska-feya/Site/Finalni/03-h-f.jpg
 pageLayout: 2
 
-title: Вътрешен дизайн на (антре)
-description: 
-project: http://hub.acherno.com/svn/gorska-feya/Site/3D/06-a-f.jpg
-final: http://hub.acherno.com/svn/gorska-feya/Site/Finalni/06-a-f.jpg
+title: Интериор на (всекидневна)
+description: Сещаш се, че скоро нито един от шестте стола в сега притихналата трапезария няма да бъде свободен, а стаята ще се изпълни с думи и смях, и се насочваш към кухнята, за да започнеш приготовленията.
+project: http://hub.acherno.com/svn/gorska-feya/Site/3D/03-h-f.jpg
+final: http://hub.acherno.com/svn/gorska-feya/Site/Finalni/03-h-f.jpg
 pageLayout: 1
 
-title: Обзавеждане на (спалня)
-description: 
-project: http://hub.acherno.com/svn/gorska-feya/Site/3D/11-s-f.jpg
-final: http://hub.acherno.com/svn/gorska-feya/Site/Finalni/11-s-f.jpg
-pageLayout: 11
-
-title: Интериорен дизайн на (спалня)
-description: 
-project: http://hub.acherno.com/svn/gorska-feya/Site/3D/13-s-f.bmp
-final: http://hub.acherno.com/svn/gorska-feya/Site/Finalni/13-s-f.jpg
-pageLayout: 6
-
-title: Мебели в (детска стая)
-description: 
-project: http://hub.acherno.com/svn/gorska-feya/Site/3D/15-ds-f.bmp
-final: http://hub.acherno.com/svn/gorska-feya/Site/Finalni/15-ds-f.jpg
+title: Интериорен дизайн на (кухня)
+description: Минаваш под свода и се озоваваш в мечтаната кухня в класически стил. Флоралните мотиви в бежово и розово допринасят за бодрото ти настроение. По завесите са цъфнали майски рози. С удоволствие приготвяш тестото за любимите лакомства на семейството и поставяш тавата във фурната. Уханието на печени бисквити става все по-силно. Още няколко минути и ще бъдат готови. Отваряш една от фрезованите вратички на долния шкаф и избираш подходящ съд. От горния шкаф със стъкло и метални декорации по вратата изваждаш порцелановите чаши за чай на цветя и ги оставяш на кухненския остров. Все пак следобедното пиене на чай е важен ритуал не само за Алиса, Шапкаря и Мартенския Заек.
+project: http://hub.acherno.com/svn/gorska-feya/Site/3D/02-h-f.jpg
+final: http://hub.acherno.com/svn/gorska-feya/Site/Finalni/02-h-f.jpg
 pageLayout: 5
 
+title: Вътрешен дизайн на (антре)
+description: Ако човекът се посреща по дрехите, то за дома първо се съди по антрето. Бяло и слонова кост. Мебели с класически дизайн и изящни метални дръжки с фини керамични елементи. Фрезовани врати и цялостен дизайн в стил модерна класика. Гостите пристъпват навътре, за да се отдадат на вечната пролет.
+project: http://hub.acherno.com/svn/gorska-feya/Site/3D/06-a-f.jpg
+final: http://hub.acherno.com/svn/gorska-feya/Site/Finalni/06-a-f.jpg
+pageLayout: 8
+
+title: Обзавеждане на (спалня)
+description: Вятърът е утихнал, а листата на дърветата са неподвижни. Чуваш само собствения си дъх и песента на птиците в далечината. Тревата е осеяна с диви цветя. Да, диви цветя, точно като тези на завесите – зелено, жълто и сиво. Събуждаш се. Малка част от светлината преминава през завесите. Още си в мекото легло, под топлите завивки. Днешният ден е почивен и не трябва да бързаш за работа, мимоходом грабвайки подходящите дрехи от големия вграден гардероб. 
+project: http://hub.acherno.com/svn/gorska-feya/Site/3D/11-s-f.bmp
+final: http://hub.acherno.com/svn/gorska-feya/Site/Finalni/11-s-f.jpg
+pageLayout: 5
+
+title: Интериорен дизайн на (спалня)
+description: Заслужена почивка. Пускаш телевизора на любимия музикален канал и се обръщаш на другата страна. Погледът ти блуждае по белите тухли на отсрещната стена. Рисуваш мечтите в ума си и ги превръщаш в цели. 
+project: http://hub.acherno.com/svn/gorska-feya/Site/3D/13-s-f.bmp
+final: http://hub.acherno.com/svn/gorska-feya/Site/Finalni/13-s-f.jpg
+pageLayout: 1
+
+title: Мебели в (детска стая)
+description: Свят, гледан през розови очила. Свят, в който лампите са цветя. Свят, облечен в дреха на розово-бели райета. Бели мебели в стил модерна класика с кръгли дръжки в розово.
+project: http://hub.acherno.com/svn/gorska-feya/Site/3D/15-ds-f.bmp
+final: http://hub.acherno.com/svn/gorska-feya/Site/Finalni/15-ds-f.jpg
+pageLayout: 2
+
 title: Вътрешен дизайн на (детска стая)
-description: 
+description: Лична страна на чудесата: момичешки мечти, вълшебни приказки, магически гори, дървета с извити клони и розови листа, приютили пъстрокрили птички. Въображение: дръзки герои и героини, каменни замъци и митични създания. Няма невъзможни неща.
 project: http://hub.acherno.com/svn/gorska-feya/Site/3D/16-ds-f.bmp
 final: http://hub.acherno.com/svn/gorska-feya/Site/Finalni/16-ds-f.jpg
 pageLayout: 4
 
 title: Интериор на (баня)
-description: 
-project: http://hub.acherno.com/svn/gorska-feya/Site/3D/18-b-f.jpg
+description: Организирай специален празник за сетивата си. Банята в класически стил е идеалното място за случая. Малка и кокетна. В кремаво и бяло. С нежни декоративни елементи. 
+project: http://hub.acherno.com/svn/gorska-feya/Site/3D/18-b-f.bmp
 final: http://hub.acherno.com/svn/gorska-feya/Site/Finalni/18-b-f.jpg
 pageLayout: 9
+
+title: Интериор на (баня)
+description: В какво настроение си? Избери си едно от шишенцата с цветни капачки. Затвори очи. Ароматите на етерични масла и докосването на водните капки ще те накарат да се потопиш в атмосферата.
+project: http://hub.acherno.com/svn/gorska-feya/Site/3D/19-b-f.bmp
+final: http://hub.acherno.com/svn/gorska-feya/Site/Finalni/19-b-f.jpg
+pageLayout: 8
 []
 
 [constructions]
 title: Ремонт на всекидневна
-image: http://hub.acherno.com/svn/gorska-feya/Site/Remonti/IMG_5792.JPG
+image: http://hub.acherno.com/svn/gorska-feya/Site/Remonti/IMG_3218.JPG
 
-title: Ремонт на антре
-image: http://hub.acherno.com/svn/gorska-feya/Site/Remonti/IMG_5729.JPG
+title: Ремонт на хол
+image: http://hub.acherno.com/svn/gorska-feya/Site/Remonti/IMG_3239.JPG
 
-title: Ремонт на коридор
-image: http://hub.acherno.com/svn/gorska-feya/Site/Remonti/IMG_5738.JPG
+title: Ремонт на детска стая
+image: http://hub.acherno.com/svn/gorska-feya/Site/Remonti/IMG_3143.JPG
 
-title: Ремонт на спалня
-image: http://hub.acherno.com/svn/gorska-feya/Site/Remonti/IMG_5745.JPG
+title: Събаряне на стена
+image: http://hub.acherno.com/svn/gorska-feya/Site/Remonti/IMG_3199.JPG
 
-title: Поставяне на гипсокартон
-image: http://hub.acherno.com/svn/gorska-feya/Site/Remonti/IMG_5760.JPG
+title: Поставяне на гипсокартон в баня
+image: http://hub.acherno.com/svn/gorska-feya/Site/Remonti/IMG_3159.JPG
 []
