@@ -10,6 +10,7 @@ description: Светлина, която дарява с живот. Всичк
 image: http://hub.acherno.com/svn/ubezhishte/Site/Finalni/2_X8A0593-HDR-8.JPG
 video: http://hub.acherno.com/svn/ubezhishte/Site/Video/eva geo milev site 20170223.mp4
 
+
 content:
 Светлина, която дарява с живот. Всички лъчи, концентрирани в една точка – бялото. Весело слънце, нарисувано в жълто, и мистериозна луна във вариации на сиво-бежовото. Удоволствие е да се прибереш в красив, удобен и модерен дом, в който решенията са умни, всичко е универсално приложимо и едновременно с това е по твой вкус. Няма нищо прекомерно. Нищо претенциозно. Нищо чуждо и непознато. Тук си себе си и можеш всичко. Уют и свобода.
 :end
@@ -56,4 +57,21 @@ description: Сутрин не ти се иска да се откъсваш о�
 project: http://hub.acherno.com/svn/ubezhishte/Site/3D/Eva_Geo_Milev_Spalnya_WIP_02_Z.png
 final: http://hub.acherno.com/svn/ubezhishte/Site/Finalni/2_X8A0626-HDR-11.JPG
 pageLayout: 9
+[]
+
+[constructions]
+    title: Ремонт на всекидневна
+    image: http://hub.acherno.com/svn/ubezhishte/Site/Remonti/IMG_1357.JPG
+
+    title: Ремонт на антре
+    image: http://hub.acherno.com/svn/ubezhishte/Site/Remonti/IMG_1301.JPG
+
+    title: Ремонт на спалня
+    image: http://hub.acherno.com/svn/ubezhishte/Site/Remonti/IMG_1337.JPG
+
+    title: Ремонт на баня
+    image: http://hub.acherno.com/svn/ubezhishte/Site/Remonti/IMG_5989.JPG
+
+    title: Поставяне на плочки в баня
+    image: http://hub.acherno.com/svn/ubezhishte/Site/Remonti/IMG_9057.JPG
 []
