@@ -2,7 +2,6 @@
 href: '/web/projects/public/boom' 
 order: 110
 coverLayout: 10
-featured: true
 design: 'Магазин за (козметика за вана)'
 project: 'Boom'
 price: 50
