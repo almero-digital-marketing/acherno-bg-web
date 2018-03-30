@@ -1,0 +1,73 @@
+<h1>{{ subject }}</h1>
+
+<h2>Информация за контакт</h2>
+<p>
+От: <strong>{{ name }}</strong><br>
+Телефон: <strong>{{ phone }}</strong><br>
+Email: <strong>{{ from }}</strong><br>
+Дата: <strong>{{ date }}</strong>
+</p>
+
+<h2>Информация за обекта</h2>
+<p>
+Квадратура: <strong>{{ area }}m2</strong><br>
+Град: <strong>{{ city }}</strong>
+</p>
+<h2>Особенности на архитектурата на обекта</h2>
+<ul>
+    {{#architecture}}<li>{{.}}</li>{{/architecture}}
+    {{#scope}}<li>{{.}}</li>{{/scope}}
+</ul>
+
+<h2>Текущо състояние на обекта</h2>
+<ul>
+    {{#condition}}<li>{{.}}</li>{{/condition}}
+    {{#keep}}<li>{{.}}</li>{{/keep}}
+</ul>
+
+{{#files.length}}
+<h2>Актуални снимки и скици на обекта</h2>
+<оl>
+    {{#files}}
+    <li>
+        <a href="{{.}}">Прикачен файл</a>
+    </li>
+    {{/files}}
+</оl>
+{{/files.length}}
+
+<h2>Визия, която ще се търси</h2>
+<ul>
+    {{#style}}<li>{{.}}</li>{{/style}}
+</ul>
+
+<h2>Промени по инсталциите и разпределения</h2>
+<ul>
+    {{#layout}}<li>{{.}}</li>{{/layout}}
+</ul>
+
+<h2>Ремонт и довършителни работи</h2>
+<ul>
+    {{#construction}}<li>{{.}}</li>{{/construction}}
+</ul>
+
+<h2>Мебели и обзавеждане</h2>
+<ul>
+    {{#furniture}}<li>{{.}}</li>{{/furniture}}
+</ul>
+
+<h2>Допълнителни изисквания, коментари или въпроси</h2>
+<p>{{ comments }}</p>
+<hr>
+<h1>Анализ на поведението</h1>
+<p>
+Посещения: <strong>{{ visits }}</strong><br>
+Страници: <strong>{{ pages }}</strong>
+</p>
+<h2>Разгледани страници</h2>
+<p>{{ history }}</p>
+<h2>Геолокация</h2>
+<p>
+Държава: <strong>{{ ipcountry }}</strong><br>
+Град: <strong>{{ ipcity }}</strong><br>
+</p>
