@@ -26,11 +26,15 @@ Email: <strong>{{ from }}</strong><br>
 </ul>
 
 <h2>Актуални снимки и скици на обекта</h2>
+{{#if files.length}}
 <ol>
     {{#files}}
-    <li><a href="{{.}}">Прикачен файл</a></li>
+    <li>
+        <a href="{{.}}">{{#last (split . "/")}}{{.}}{{/last}}</a>
+    </li>
     {{/files}}
 </ol>
+{{/if}}
 
 <h2>Визия, която ще се търси</h2>
 <ul>

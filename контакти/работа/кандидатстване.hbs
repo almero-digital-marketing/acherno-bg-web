@@ -15,13 +15,15 @@ Email: <strong>{{ from }}</strong><br>
 </p>
 
 <h2>Автобиография и портфолио</h2>
+{{#if files.length}}
 <ol>
     {{#files}}
     <li>
-        <a href="{{.}}">Прикачен файл</a>
+        <a href="{{.}}">{{#last (split . "/")}}{{.}}{{/last}}</a>
     </li>
     {{/files}}
 </ol>
+{{/if}}
 
 <h2>Образование и допълнителна квалификация</h2>
 <p>
