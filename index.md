@@ -17,7 +17,7 @@ youtube:
 facebook:
   title: '(Станете ни приятели) [в Facebook.com]'
   description: 'Pазгледайте снимки от международни изложения, коментирайте нашитe проекти или следeте за нови.'
-  url: 'http://www.facebook.com/acherno.interior.design'
+  url: 'http://www.facebook.com/acherno.design'
 copyright:
   acherno: '(Ачерно) ЕООД © 2007-2016|(Всички права запазени)'
   almero: 
