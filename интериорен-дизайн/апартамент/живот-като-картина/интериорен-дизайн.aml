@@ -52,35 +52,41 @@ project: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/
 final: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Photos/FULL/_PLB7429.jpg
 pageLayout: 6
 
-title: Вътрешен дизайн на (баня към спалня)
+title: Вътрешен дизайн на (баня)
 description: Нов ден, нови върхове. Поглеждаш в огледалото откъдето усмивката ти сякаш нашепва “Бъди по-добър от вчера”.
 project: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Banya-Spalnya_FINAL_01_St.png
 final: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Photos/FULL/_PLB7436.jpg
-pageLayout: 11
-
-title: 
-description: Чистота и усещане за абсолютна свобода в прегръдките на пенливата и ароматна вода във ваната. Бяло-пясъчна гама, която носи мирис на море. Безброй различни шестоъгълници, подредени в декоративните стенни плочки зад тоалетната.
-project: http://projects.acherno.int/detelina-gorni-lozen/Marketing/Concept/Detelina_Gorni_lozen_Bania_Spalnia_01_Final_01.jpg
-final: http://projects.acherno.int/detelina-gorni-lozen/Marketing/Photos/PLB0384-HDR-Edit.jpg
-pageLayout: 11
+pageLayout: 13
 
 title: Интериор на (детска стая)
-description: Слънчево настроение, невинност и любопитство. Яркожълти мебели с множество функции – бюро, етажерки, библиотека и шкафове, които продължават в жълта ивица окачен таван с вградени луни. Малки дървени дръжки в зелено и зелен стол зад бюрото.
-project: http://projects.acherno.int/detelina-gorni-lozen/Marketing/Concept/Detelina-Gorni-Lozen_Detska_FINAL_01_St.png
-final: http://projects.acherno.int/detelina-gorni-lozen/Marketing/Photos/PLB0513.jpg
+description: “Малкият принц” е книгата, която най-много му допада. В неговата стая намериха място нощното небе, звездите, безкрая от игри и мечти, толкова пъстри, колкото и трона му.
+project: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska-Momche_WIP_01_N.png
+final: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Photos/FULL/_PLB7331_2.jpg
 pageLayout: 6
 
 title: Обзавеждане на (детска стая)
-description: Акценти в бледозелено, още свежи цветове и дървени повърхности. Сигурност, спокойствие и детски усмивки. От етажерките над леглото нескрито надничат малки плюшени версии на познати анимационни герои. Интериор за весели игри.
-project: http://projects.acherno.int/detelina-gorni-lozen/Marketing/Concept/Detelina-Gorni-Lozen_Detska_FINAL_03_St.png
-final: http://projects.acherno.int/detelina-gorni-lozen/Marketing/Photos/PLB0538.jpg
+description: Първо са домашните, а след това са плановете за далечни пътешествия и полети до непознати галактики. “Моята роза е някъде там.” 
+project: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska-Momche_WIP_02_N.png
+final: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Photos/FULL/_PLB7356-Edit.jpg
 pageLayout: 5
 
-title: Интериорен дизайн на (обща баня)
-description: Очарованието на натуралните нюанси, комбинирани контрастно и пренесени в банята. Характерът на интериора личи най-вече в избора на декоративни плочки, вдъхновени от идеята за водата. В душ-зоната пък можеш да откриеш нова интерпретация на познатата форма на шестоъгълника.
-project: http://projects.acherno.int/detelina-gorni-lozen/Marketing/Concept/Detelina-Gorni-Lozen_Banya_Obshta_Final_02_R.jpg
-final: http://projects.acherno.int/detelina-gorni-lozen/Marketing/Photos/PLB0548-HDR-Edit.jpg
+title: Вътрешен дизайн на (детска стая)
+description: Ако щастието имаше цвят, то той със сигурност би бил шарен. Нейната стая изпълнихме с щастие и любимите й животни, които всеки ден заемат главните роли във вълнуващи игри и фантастични приключения. 
+project: http://projects.acherno.int/detelina-gorni-lozen/Marketing/Concept/Apostolovi_Detska_Momiche_FINAL_04_Z.jpg
+final: http://projects.acherno.int/detelina-gorni-lozen/Marketing/Photos/_PLB7369.jpg
 pageLayout: 8
+
+title: Интериор на (детска стая)
+description: От всяко приключение трябва да си взимаш по нещо за спомен. Над бюрото е мястото, където спомените грижовно се закачат и разказват истории с усмивка.
+project: http://projects.acherno.int/detelina-gorni-lozen/Marketing/Concept/Apostolovi_Detska_Momiche_FINAL_02_Z.jpg
+final: http://projects.acherno.int/detelina-gorni-lozen/Marketing/Photos/_PLB7389.jpg
+pageLayout: 1
+
+title: Обзавеждане на (баня)
+description: Стените в банята рисуват морски вълни, а водната струя отнася мислите от деня. В съзнанието ти остава само картината на добре изживян живот.
+project: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Banya-Obshta_Final_03_R.png
+final: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Photos/FULL/_PLB7451.jpg
+pageLayout: 13
 []
 
 [constructions]
