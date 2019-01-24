@@ -1,12 +1,12 @@
 href: /web/projects/private/painting
 order: 43.5
-coverLayout: 9
+coverLayout: 8
 price: 40
-design: (Сладко бягство) от големия град
-project: Детелини
+design: (Цветно настроение) и уют
+project: Живот като картина
 title: Интериор на апартамент (Живот като картина)
-subtitle: (модерен стил) и уют
-description: Ако ти е писнало от миризмата на високи скорости и фоновия шум на делника в центъра, избягай рязко от суматохата. Този път ще те отведем на спокойно местенце на броени минути от града, там, където алтернативата на стреса се материализира пред очите ти. Дни, ароматизирани от прясно окосената трева. Нощи, озвучени от песента на щурчетата. Приеми предизвикателството и ни последвай, за да ти покажем какво постигнахме в интериора на този дом.
+subtitle: (многоцветен) и вълнуващ
+description: Домовете са като картини, на които са им подарили живот. И като всяка картина те притежават характерна индивидуалност, която точно отразява хората, за които са създадени. Развихри въображението си, смело добави цвят и превърни дома си в произведение на изкуството.
 image: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Photos/FULL/_PLB7305.jpg
 
 content:
@@ -56,52 +56,52 @@ title: Вътрешен дизайн на (баня)
 description: Нов ден, нови върхове. Поглеждаш в огледалото откъдето усмивката ти сякаш нашепва “Бъди по-добър от вчера”.
 project: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi-Gotse-Delchev_Banya-Spalnya_FINAL_01_St.png
 final: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Photos/FULL/_PLB7436.jpg
-pageLayout: 13
+pageLayout: 7
 
 title: Интериор на (детска стая)
 description: “Малкият принц” е книгата, която най-много му допада. В неговата стая намериха място нощното небе, звездите, безкрая от игри и мечти, толкова пъстри, колкото и трона му.
-project: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska-Momche_WIP_01_N.png
+project: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska-Momche_WIP_01_N.jpg
 final: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Photos/FULL/_PLB7331_2.jpg
 pageLayout: 6
 
 title: Обзавеждане на (детска стая)
 description: Първо са домашните, а след това са плановете за далечни пътешествия и полети до непознати галактики. “Моята роза е някъде там.” 
-project: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska-Momche_WIP_02_N.png
+project: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska-Momche_WIP_02_N.jpg
 final: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Photos/FULL/_PLB7356-Edit.jpg
 pageLayout: 5
 
 title: Вътрешен дизайн на (детска стая)
 description: Ако щастието имаше цвят, то той със сигурност би бил шарен. Нейната стая изпълнихме с щастие и любимите й животни, които всеки ден заемат главните роли във вълнуващи игри и фантастични приключения. 
-project: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska_Momiche_FINAL_04_Z.jpg
+project: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska_Momiche_FINAL_04_Z.png
 final: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Photos/FULL/_PLB7369.jpg
-pageLayout: 8
+pageLayout: 2
 
 title: Интериор на (детска стая)
 description: От всяко приключение трябва да си взимаш по нещо за спомен. Над бюрото е мястото, където спомените грижовно се закачат и разказват истории с усмивка.
-project: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska_Momiche_FINAL_02_Z.jpg
+project: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Detska_Momiche_FINAL_02_Z.png
 final: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Photos/FULL/_PLB7389.jpg
 pageLayout: 1
 
 title: Обзавеждане на (баня)
 description: Стените в банята рисуват морски вълни, а водната струя отнася мислите от деня. В съзнанието ти остава само картината на добре изживян живот.
-project: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Conceptt/Apostolovi_Banya-Obshta_Final_03_R.png
+project: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Concept/Apostolovi_Banya-Obshta_Final_03_R.jpg
 final: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/Photos/FULL/_PLB7451.jpg
-pageLayout: 13
+pageLayout: 7
 []
 
 [constructions]
     title: Ремонт на всекидневна
-    image: http://projects.acherno.int/detelina-gorni-lozen/Marketing/Photos/IMG_6097.jpg
+    image: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/IMG_0204.JPG
 
     title: Ремонт на спалня
-    image: http://projects.acherno.int/detelina-gorni-lozen/Marketing/Photos/IMG_6018.jpg
+    image: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/IMG_9007.JPG
 
     title: Ремонт на детска стая
-    image: http://projects.acherno.int/detelina-gorni-lozen/Marketing/Photos/IMG_6062.jpg
+    image: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/IMG_8981.JPG
 
     title: Ремонт на баня
-    image: http://projects.acherno.int/detelina-gorni-lozen/Marketing/Photos/IMG_6079.jpg
+    image: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/IMG_8954.JPG
 
     title: Ремонт на кухня
-    image: http://projects.acherno.int/detelina-gorni-lozen/Marketing/Photos/IMG_6100.jpg
+    image: http://projects.acherno.int/apostolovi-gotse-delchev/Marketing/IMG_8927.JPG
 []
