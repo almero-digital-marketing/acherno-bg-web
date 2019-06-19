@@ -1,0 +1,71 @@
+href: /web/projects/private/sutrin-pylna-s-nejnost
+order: 39
+coverLayout: 12
+price: 30
+design: Прегръдка от (деликатни тонове)
+project: Сутрин, пълна с нежност
+title: Обзавеждане на жилище (Сутрин, пълна с нежност)
+subtitle: Там, където цари любовта
+description: Там, където ухае на прясно изпечен хляб. И те очаква чаша топъл чай. Където любовта не е само цитат от стената. И е по-сладка от шоколад. Там, където потъваш в уютна мекота. И се рееш в мечти с лекотата на водно конче. Там, където е светло дори по тъмно. Където си обичан. Където някой те завива, докато заспиваш. Там, където си себе си. У дома.
+image: http://projects.acherno.int/kamen-damyanov/Marketing/Photos/FULL/_PLB6709.jpg
+magazine: /covers/30.svg
+content:
+Там, където ухае на прясно изпечен хляб. И те очаква чаша топъл чай. Където любовта не е само цитат от стената. И е по-сладка от шоколад. Там, където потъваш в уютна мекота. И се рееш в мечти с лекотата на водно конче. Там, където е светло дори по тъмно. Където си обичан. Където някой те завива, докато заспиваш. Там, където си себе си. У дома.
+Дом, който приласкава с уюта на дървото, с феерия от светлина, естествена и вградена, с деликатността на неутралните цветове, на фона на които синее успокояващата прегръдка на най-нежното море. Онова, което поема умората ти и неусетно я разтваря в безвремие.
+:end
+
+[rooms]
+title: Интериор на (трапезария)
+description: Сутрините в този дом преливат от любов. Тя на свой ред прелива от топлия чайник. Прелива безпрепятствено и от трапезарията в хола, благодарение на отворения план на всекидневната, която посреща ранобудните с уверението, че не ти трябва нищо друго, освен любов… и малко шоколад.
+project: http://projects.acherno.int/kamen-damyanov/Marketing/Concept/Kamen_Damyanov_Hol_Final_02_R.jpg
+final: http://projects.acherno.int/kamen-damyanov/Marketing/Photos/FULL/_PLB6697.jpg
+pageLayout: 4
+
+title: Интериорен дизайн на (хол)
+description: Вечерите са не по-малко романтични, удобно настанени в лазурната прегръдка на дивана. С книга или дистанционно в ръка и едно пърхащо наоколо водно конче, животът у дома е прекрасен! Наслаждаваш му се, излегнат и умиротворен, и попиваш заслужената почивка с всичките си сетива.
+project: http://projects.acherno.int/kamen-damyanov/Marketing/Concept/Kamen_Damyanov_Hol_Final_04_R.jpg
+final: http://projects.acherno.int/kamen-damyanov/Marketing/Photos/FULL/_PLB6712.jpg
+pageLayout: 5
+
+title: Мебели в (кухня )
+description: А когато закопнееш за топла домашна храна или за разхладителна напитка, кухнята те посреща с дървесния си уют и гланцовите си повърхности, скрили зад себе си всичко необходимо за подредбата на една вечеря на свещи. Комфортът на трапезните столове те кара да забравиш времето и да потънеш в сладки разговори дълго след раздигането на масата.
+project: http://projects.acherno.int/kamen-damyanov/Marketing/Concept/Kamen_Damyanov_Hol_Final_01_R.jpg
+final: http://projects.acherno.int/kamen-damyanov/Marketing/Photos/FULL/_PLB6841a.jpg
+pageLayout: 1
+
+title: Интериор на (баня)
+description: Миг преди тръгване към страната на сънищата. Капките вода отмиват напрежението от изминалия ден, отдавна забравено и ненужно. То сякаш е някъде далеч зад теб, отвъд гората от меки и дървесни тонове, в която си е се озовал на път към жадувания рестарт. 
+project: http://projects.acherno.int/kamen-damyanov/Marketing/Concept/Kamen_Damyanov_Banya_Obshta_FINAL_01_Z.jpg
+final: http://projects.acherno.int/kamen-damyanov/Marketing/Photos/FULL/_PLB6806.jpg
+pageLayout: 2
+
+title: Обзавеждане на (спалня)
+description: Между земята и небето, дървесните шарки и белите облаци. Ето къде се криел дълбокият, възстановителен сън! Преди да се предадеш в обятията му, се любуваш на светлината, която се спуска над главата ти и с премрежен поглед си представяш, че чертае безгрижния танц на нощните светулки.
+project: http://projects.acherno.int/kamen-damyanov/Marketing/Concept/Kamen_Damyanov_Spalnya_FINAL_01_N.jpg
+final: http://projects.acherno.int/kamen-damyanov/Marketing/Photos/FULL/_PLB6813.jpg
+pageLayout: 4
+
+title: Вътрешен дизайн на (спалня)
+description: Кътчето на мечтите. Там, където оставаш насаме със себе си. Където светлината е по-силна от мрака. И ако я оставиш за малко да угасне, то ще е само за да поемеш с нови сили към новия ден. Към следващата сутрин, пълна с обич.
+project: http://projects.acherno.int/kamen-damyanov/Marketing/Concept/Kamen_Damyanov_Spalnya_FINAL_03_N.jpg
+final: http://projects.acherno.int/kamen-damyanov/Marketing/Photos/FULL/_PLB6831.jpg
+pageLayout: 3
+
+[]
+
+[constructions]
+    title: Ремонт на всекидневна
+    image: http://projects.acherno.int/kamen-damyanov/Marketing/Zasnemane/IMG_7595.JPG
+
+    title: Ремонт на антре
+    image: http://projects.acherno.int/kamen-damyanov/Marketing/Zasnemane/IMG_5846.JPG
+
+    title: Окачен таван
+    image: http://projects.acherno.int/kamen-damyanov/Marketing/Zasnemane/IMG_6006.JPG
+
+    title: Ремонт на спалня
+    image: http://projects.acherno.int/kamen-damyanov/Marketing/Zasnemane/IMG_7603.JPG
+
+    title: Ремонт на баня
+    image: http://projects.acherno.int/kamen-damyanov/Marketing/Zasnemane/IMG_5987.JPG
+[]
