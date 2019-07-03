@@ -16,27 +16,15 @@ content:
 
 [rooms]
 title: Интериорен дизайн на (приемна)
-description: Приемната те посреща с рецепция на няколко нива и с модерен минимализъм, в който се долавят елегантност и отношение към детайла. Чувстваш се като у дома още с поставянето на връхната дреха на закачалката и те обзема неочаквано спокойствие, че си на сигурно място зад нежния мат на преградните стъкла и външните прозорци.
-project: http://projects.acherno.int/desislava-plovdiv/Marketing/Concept/Desislava_Plovdiv_Kabinet_FINAL_01_N.jpg
-final: http://projects.acherno.int/desislava-plovdiv/Marketing/Photos/FULL/_PLB1119.jpg
-pageLayout: 6
-
-title: Обзавеждане на (приемна)
-description: Поемаш по коридора към твоята съвършена усмивка и с любопитство надникваш през прозрачните детайли на пгреградните стъкла, които оставят усещането за прозрачност и в работата на професионалистите и създават оптическа илюзия за отворен план на клиниката.
+description: Приемната те посреща с елегантност и отношение към детайла. Чувстваш се като у дома още с посягането към закачалката и те обзема неочаквано спокойствие, че си на сигурно място зад нежния мат на преградните стъкла. Поемаш по коридора към твоята съвършена усмивка и с любопитство надникваш през прозрачните детайли на преградните стени, които оставят усещането за прозрачност и в работата на професионалистите.
 project: http://projects.acherno.int/desislava-plovdiv/Marketing/Concept/Desislava_Plovdiv_Kabinet_FINAL_02_N.jpg
 final: http://projects.acherno.int/desislava-plovdiv/Marketing/Photos/FULL/_PLB1116.jpg
-pageLayout: 3
+pageLayout: 4
 
 title: Вътрешен дизайн на (клиника)
-description: Присядаш в уединението, оформено от разчупения геометричен дизайн в пространството между приемната и коридора, и се оставяш на някое сладко четиво да разсее мислите ти на приглушената дневна светлина.
+description: Присядаш в уединението, оформено от разчупения геометричен дизайн в пространството между приемната и коридора, и се оставяш на някое сладко четиво да разсее мислите ти на приглушената дневна светлина. Вместо да расте, притеснението ти от предстоящата манипулация намалява. Прочетената на стената усмивка неусетно се изписва и върху лицето ти.
 project: http://projects.acherno.int/desislava-plovdiv/Marketing/Concept/Desislava_Plovdiv_Kabinet_FINAL_14_N.jpg
 final: http://projects.acherno.int/desislava-plovdiv/Marketing/Photos/FULL/_PLB1207.jpg
-pageLayout: 1
-
-title: Интериор на (клиника)
-description: Вместо да расте, притеснението ти от предстоящата манипулация намалява, разсеяно с всяка крачка по коридора от ефектната стена с декоративни елементи. Прочетената усмивка неусетно се изписва и върху лицето ти.
-project: http://projects.acherno.int/desislava-plovdiv/Marketing/Concept/Desislava_Plovdiv_Kabinet_FINAL_11_N.jpg
-final: http://projects.acherno.int/desislava-plovdiv/Marketing/Photos/FULL/_PLB1137.jpg
 pageLayout: 2
 
 title: Интериор на (стоматологичен кабинет)
@@ -46,22 +34,28 @@ final: http://projects.acherno.int/desislava-plovdiv/Marketing/Photos/FULL/_PLB1
 pageLayout: 4
 
 title: Дизайн на (кабинет)
-description: Оставяш се на грижите на екипа и когато отново им се усмихваш на тръгване, ти се струва, че времето не е направило и една крачка по винилната подова настилка с луксозно излъчване. Колко неусетно мина всичко, наистина!
+description: Отпускаш се под грижовните ръце на екипа и когато отново им се усмихваш на тръгване, ти се струва, че времето не е направило и една крачка по винилната подова настилка с луксозно излъчване. Колко неусетно мина всичко, наистина!
 project: http://projects.acherno.int/desislava-plovdiv/Marketing/Concept/Desislava_Plovdiv_Kabinet_FINAL_09_N.jpg
 final: http://projects.acherno.int/desislava-plovdiv/Marketing/Photos/FULL/_PLB1167.jpg
-pageLayout: 7
+pageLayout: 10
 
 title: Мебели в (стерилизационна)
 description: Мястото, където грижите продължават далеч от очите на пациентите, но под строгия контрол на специалистите и техните уреди. Белота и мека естествена светлина допринасят за дзен уюта насред този оазис на чистотата и реда.
 project: http://projects.acherno.int/desislava-plovdiv/Marketing/Concept/Desislava_Plovdiv_Sterilizacionna_FINAL_01_Z.jpg
 final: http://projects.acherno.int/desislava-plovdiv/Marketing/Photos/FULL/_PLB1189.jpg
-pageLayout: 4
+pageLayout: 8
 
 title: Интериор на (тоалетна)
-description: Минимализъм в графични цветове и с геометрични мотиви предлага спокойно кътче за освежаване и за един продължителен поглед в огледалото, което с нетърпение очаква новата ти усмивка, постигната с бутикова грижа, талант, търпение и усещане за изпълнена мисия.
+description: Спокойно кътче за освежаване и за един продължителен поглед в огледалото, което с нетърпение очаква новата ти усмивка, постигната с бутикова грижа, талант, търпение и усещане за изпълнена мисия.
 project: http://projects.acherno.int/desislava-plovdiv/Marketing/Concept/Desislava_Plovdiv_WC_FINAL_01_Z.jpg
 final: http://projects.acherno.int/desislava-plovdiv/Marketing/Photos/FULL/_PLB1204.jpg
-pageLayout: 7
+pageLayout: 9
+
+title: Обзавеждане на (приемна)
+description: Минаваш по обратния път на тръгване и с лекота записваш час за следващото посещение. За следващия път, в който грижата за здравето ще бъде също толкова приятна, колкото и тази за красотата. И няма да е въпрос на избор между двете.
+project: http://projects.acherno.int/desislava-plovdiv/Marketing/Concept/Desislava_Plovdiv_Kabinet_FINAL_01_N.jpg
+final: http://projects.acherno.int/desislava-plovdiv/Marketing/Photos/FULL/_PLB1127.jpg
+pageLayout: 3
 []
 
 [constructions]
